@@ -1,0 +1,17 @@
+<html>
+  <head>
+  <link rel="stylesheet" href="input location your code admin and user folder">
+  <link rel="stylesheet" href="example.css">
+    <body>
+    <h1> hello world</h1>
+    </body>
+  </head>
+</html>
+
+
+
+file example.css
+you can give the attribute in here
+h1{
+color : white;
+}
